@@ -2,7 +2,6 @@
 
 A smart, paperless attendance system using **RFID**, **Raspberry Pi Pico**, and **real-time logging**.  
 Fast. Efficient. Reliable. 🧠💡
-
 ---
 
 ## 🔍 What is SwiftScan?
